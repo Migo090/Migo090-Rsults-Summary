@@ -157,3 +157,19 @@ button:hover{
         width: 100%;
     }
 }
+@media(min-width: 700px){
+    body{
+        padding: 1rem;
+    }
+    main{
+        width: 100%;
+    }
+}
+@media(min-width: 1301px){
+    body{
+        padding: 1rem;
+    }
+    main{
+        width: 70rem;
+    }
+}
